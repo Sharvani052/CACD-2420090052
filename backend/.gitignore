@@ -1,0 +1,8 @@
+node_modules/
+.env
+
+storage/real/*
+storage/decoys/*
+
+!storage/real/.gitkeep
+!storage/decoys/.gitkeep

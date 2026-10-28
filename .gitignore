@@ -1,0 +1,12 @@
+﻿node_modules/
+.env
+.env.*
+!.env.example
+dist/
+build/
+coverage/
+*.log
+
+downloaded-real-3.txt
+test-risk-1.txt
+test-sensitive.txt
